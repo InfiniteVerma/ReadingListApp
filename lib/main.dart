@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'Screens/ReadingList.dart';
 
-void main() => runApp(new MyApp());
+void man() => runApp(new MyApp());
 
 class MyApp extends StatelessWidget{
   @override
