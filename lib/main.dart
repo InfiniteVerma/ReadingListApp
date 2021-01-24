@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget{
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Reading List',
+      title: 'Reading List,
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
